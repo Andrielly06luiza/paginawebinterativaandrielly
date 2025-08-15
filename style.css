@@ -1,0 +1,20 @@
+body{
+    color:rgb(247, 0, 255);
+
+    background: whitesmoke;
+
+    margin: 0px;
+
+}
+
+header {
+
+    border-bottom: solid 2px rgb(0, 0, 0);
+
+    padding: 20px;
+
+    font-size: 32px;
+
+    color: rgb(0, 0, 0);
+
+}
