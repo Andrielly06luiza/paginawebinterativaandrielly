@@ -1,7 +1,7 @@
 body{
-    color:rgb(247, 0, 255);
+    color:rgb(150, 7, 155);
 
-    background: whitesmoke;
+    background: rgb(158, 153, 153);
 
     margin: 0px;
 
@@ -18,3 +18,23 @@ header {
     color: rgb(0, 0, 0);
 
 }
+section { 
+    background: rgb(240, 4, 189);
+
+    padding-bottom: 80PX ;
+
+    padding-top: 80px;
+
+    display: flex;
+
+    justify-content: center; 
+
+}
+
+.chamada-texto { 
+    margin-right: 5%;
+
+}
+
+
+
